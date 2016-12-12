@@ -1,10 +1,10 @@
 # Webpack Basic
 
-NPM 
+NPM: 
 npm i -D webpack webpack-dev-server babel-loader babel-cli babel-preset-es2015
 
-Run and watch - webpack
+Run and watch - webpack: 
 npm run build
 
-Dev Server
+Dev Server: 
 npm start
